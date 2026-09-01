@@ -262,11 +262,11 @@ Maret 2023 menjadi bulan dengan sales tertinggi, mencapai Rp20,39 juta. Hal ini 
 
 ## 10. Business Recommendation
 
-### 1. Prioritaskan Stok untuk Produk Unggulan
+### 1. Prioritaskan stok untuk produk unggulan
 
 Produk dengan kontribusi sales terbesar, terutama kalkulator, perlu mendapatkan perhatian lebih dalam inventory planning untuk meminimalkan risiko stockout. Ketersediaan produk unggulan perlu dipastikan karena produk tersebut memberikan kontribusi besar terhadap total sales.
 
-### 2. Gunakan Strategi Product Bundling
+### 2. Gunakan strategi product bundling
 
 Gabungkan produk terlaris dengan produk pelengkap untuk mendorong customer membeli lebih banyak produk dan meningkatkan nilai transaksi. Strategi ini dapat membantu meningkatkan cross-selling dan mendorong customer membeli lebih dari satu jenis produk.
 
@@ -283,7 +283,7 @@ Analisis tersebut terhadap faktor penyebab masing-masing status dapat membantu m
 Berikan loyalty program, promo khusus, atau personalized offers kepada customer dengan spending dan frekuensi transaksi tinggi untuk meningkatkan customer retention.
 
 
-### 5. Optimalkan Strategi Berdasarkan Lokasi
+### 5. Optimalkan strategi berdasarkan lokasi
 
 Semarang, Jakarta, dan Surabaya dapat menjadi prioritas untuk strategi customer retention karena memiliki jumlah customer terbesar. Kota lainnya juga dapat dikembangkan melalui promo dan campaign yang disesuaikan dengan masing-masing wilayah.
 
