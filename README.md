@@ -1,5 +1,7 @@
 # Stationery Store Sales Analysis
 
+![Dashboard_Stationery](dashboard/Stationery_Sales_Dashboard_Image.jpg)
+
 
 ---
 
@@ -86,7 +88,7 @@ Berdasarkan dashboard final:
 
 ---
 
-## Tools & Technologies
+## 5. Tools & Technologies
 
 Tools yang digunakan dalam project ini:
 
@@ -98,7 +100,7 @@ GitHub — Project documentation dan version control
 
 ---
 
-## 5. Data Preparation & Cleaning
+## 6. Data Preparation & Cleaning
 
 Sebelum melakukan analisis, dilakukan proses data preparation untuk memastikan data siap digunakan untuk analisis SQL dan dashboard.
 
@@ -126,7 +128,7 @@ Setelah proses pengecekan dan perbaikan selesai, clean dataset digunakan sebagai
 
 ---
 
-## SQL Analysis & EDA
+## 7. SQL Analysis & EDA
 
 Setelah proses data cleaning selesai, dataset di-import ke MySQL untuk dilakukan exploratory data analysis (EDA) menggunakan SQL.
 
@@ -206,7 +208,12 @@ Menganalisis average transaction value berdasarkan metode pembayaran.
 
 ---
 
-## Key Insight
+## 8. Dashboard
+https://datastudio.google.com/reporting/de656dc4-0d64-482f-bc03-27d272970a2f 
+
+---
+
+## 9. Key Insight
 ### 1. Kalkulator menjadi product dengan sales tertinggi
 
 Kalkulator menjadi produk dengan sales tertinggi yaitu sebesar Rp313,3 juta (48,4% dari total sales). Tiga produk teratas, yaitu Kalkulator, Kertas HV, dan Binder A5, menyumbang 73,9% dari total sales.
@@ -253,7 +260,7 @@ Maret 2023 menjadi bulan dengan sales tertinggi, mencapai Rp20,39 juta. Hal ini 
 
 ---
 
-## Business Recommendation
+## 10. Business Recommendation
 
 ### 1. Prioritaskan Stok untuk Produk Unggulan
 
